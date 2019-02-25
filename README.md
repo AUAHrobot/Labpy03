@@ -9,11 +9,19 @@ Menampilkan ‘n’ bilangan acak yang lebih kecil dari 0.5 dengan perulangan for
 
 2.masukan program di bawah ini
 
+![latihan 3 bagian a 
+atas](https://user-images.githubusercontent.com/46749882/53343111-256c7380-3942-11e9-83a9-86914696dbd0.JPG)
+
+
 sc program
 
 3.lalu Run program tsb
 
 4.berikut hasilnya
+
+![latihan 3 bagian a 
+bawah](https://user-images.githubusercontent.com/46749882/53343173-4fbe3100-3942-11e9-8502-ed78d755d0d4.JPG)
+
 
 sc all
 
@@ -39,11 +47,19 @@ Program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
 
 1.Masukan program di bawah ini
 
+![latihan 3 bagian b 
+atas](https://user-images.githubusercontent.com/46749882/53343237-767c6780-3942-11e9-8924-fd3cefdf6c20.JPG)
+
+
 sc program
 
 2.Run program tersebut
 
 3.Berikut hasilnya
+
+![latihan 3 bagian b 
+bawah](https://user-images.githubusercontent.com/46749882/53343280-9a3fad80-3942-11e9-952f-8ba9dc5b6924.JPG)
+
 
 sc all
 
@@ -75,11 +91,18 @@ Diketahui seorang pengusaha menginvestasikan uangnya untuk memulai usahanya deng
 
 1.Masukan program dibawah ini
 
+![latihan 3 bagian c 
+atas](https://user-images.githubusercontent.com/46749882/53343321-b4798b80-3942-11e9-8309-9df078e3637c.JPG)
+
 sc program
 
 2.Run program tersebut
 
 3.dan berikut hasilnya
+
+![latihan 3 bagian c 
+bawah](https://user-images.githubusercontent.com/46749882/53343322-b6dbe580-3942-11e9-821d-143a101059a6.JPG)
+
 
 sc all
 
